@@ -71,7 +71,7 @@
     "@babel/plugin-transform-react-jsx": "^7.8.3",
     "@babel/plugin-transform-runtime": "^7.8.3",
     "@babel/preset-env": "^7.8.4",
-    "babel-plugin-transform-redom-jsx": "^2.0.1",
+    "babel-plugin-transform-redom-jsx": "^3.0.5",
     "babelify": "^10.0.0",
     "i18n-tag-schema": "^2.5.0"
   }
